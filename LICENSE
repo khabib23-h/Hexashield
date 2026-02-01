@@ -1,21 +1,112 @@
-MIT License
+HEXASHIELD™ PROFESSIONAL ENTERPRISE LICENSE AGREEMENT
+Version 1.1.0 | Effective Date: 2024
 
-Copyright (c) 2026 Hassan Hamisi
+================================================================================
+                           IMPORTANT LEGAL NOTICE
+================================================================================
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+THIS IS A PROFESSIONAL SECURITY SOFTWARE LICENSE AGREEMENT. BY USING HEXASHIELD™,
+YOU CONFIRM THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. PARTIES
+   1.1. Licensor: Hassan Hamisi, Security Architect
+   1.2. Licensee: Authorized Organization or Individual User
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. GRANT OF LICENSE
+   2.1. Subject to the terms herein, Licensor grants Licensee a non-exclusive,
+        non-transferable, limited license to use HexaShield™ software.
+   2.2. This license is granted for professional security operations only.
+
+3. AUTHORIZED USE CASES
+   Licensee may use HexaShield™ ONLY for:
+   3.1. Security Operations Center (SOC) monitoring and analysis
+   3.2. Authorized penetration testing and security assessments
+   3.3. Network security research with proper authorization
+   3.4. Cybersecurity education and training
+   3.5. Defensive security technology development
+
+4. STRICT PROHIBITIONS
+   Licensee SHALL NOT:
+   4.1. Use HexaShield™ for unauthorized network monitoring
+   4.2. Conduct illegal activities or violate privacy laws
+   4.3. Reverse engineer, decompile, or disassemble the software
+   4.4. Remove or alter any proprietary notices or markings
+   4.5. Redistribute, sublicense, lease, or sell the software
+   4.6. Use in weapons systems, nuclear facilities, or life-critical systems
+
+5. LEGAL COMPLIANCE REQUIREMENTS
+   5.1. Licensee must have explicit written authorization for any network
+        monitoring activities.
+   5.2. Licensee must comply with all applicable laws including:
+        - Computer Fraud and Abuse Act (CFAA)
+        - General Data Protection Regulation (GDPR)
+        - California Consumer Privacy Act (CCPA)
+        - Local cybersecurity and privacy regulations
+   5.3. Licensee assumes full legal responsibility for all activities conducted
+        using HexaShield™.
+
+6. SECURITY RESPONSIBILITIES
+   6.1. Maintain audit logs of all monitoring activities
+   6.2. Implement proper access controls and authentication
+   6.3. Report security vulnerabilities to Licensor
+   6.4. Use strong encryption for sensitive data
+   6.5. Conduct regular security assessments
+
+7. INTELLECTUAL PROPERTY
+   7.1. All intellectual property rights remain exclusively with Licensor.
+   7.2. HexaShield™ is a trademark of Hassan Hamisi.
+   7.3. Licensee receives no rights to the source code or underlying technology.
+
+8. WARRANTY DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+   FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+   SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM USE OF THIS SOFTWARE.
+
+10. TERM AND TERMINATION
+    10.1. This license is effective until terminated.
+    10.2. Licensor may terminate immediately if Licensee violates any term.
+    10.3. Upon termination, Licensee must destroy all copies of the software.
+
+11. GOVERNING LAW AND JURISDICTION
+    11.1. This Agreement shall be governed by the laws of [Jurisdiction].
+    11.2. Any disputes shall be resolved in the courts of [Jurisdiction].
+
+12. EXPORT COMPLIANCE
+    12.1. Licensee agrees not to export or re-export the software in violation
+          of any export control laws or regulations.
+
+13. ENTIRE AGREEMENT
+    13.1. This document constitutes the complete agreement between the parties.
+
+14. ACKNOWLEDGMENT
+    BY USING HEXASHIELD™, LICENSEE ACKNOWLEDGES:
+    14.1. Reading and understanding this Agreement
+    14.2. Having proper authorization for intended use
+    14.3. Accepting full legal responsibility
+    14.4. Agreeing to be bound by these terms
+
+================================================================================
+                           CONTACT INFORMATION
+================================================================================
+
+For License Inquiries:      license@hexashield.com
+For Technical Support:      support@hexashield.com
+For Security Issues:        security@hexashield.com
+Legal Department:           legal@hexashield.com
+
+Website:                    https://www.hexashield.com
+Documentation:             https://docs.hexashield.com
+
+================================================================================
+                             COPYRIGHT NOTICE
+================================================================================
+
+© 2024 Hassan Hamisi. All rights reserved.
+HexaShield™ is a registered trademark of Hassan Hamisi.
+
+This software contains proprietary information and trade secrets.
+Unauthorized use, copying, or distribution is strictly prohibited.

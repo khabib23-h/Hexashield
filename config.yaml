@@ -1,0 +1,38 @@
+# Hexashield Configuration
+monitoring:
+  network:
+    interface: "eth0"
+    promiscuous_mode: true
+    packet_count: 0  # 0 for unlimited
+    scan_detection_threshold: 10
+    port_scan_window: 30
+    syn_flood_threshold: 100
+  system:
+    cpu_threshold: 85.0
+    memory_threshold: 85.0
+    disk_threshold: 90.0
+    check_interval: 5
+    suspicious_processes:
+      - "miner"
+      - "backdoor"
+      - "ransom"
+      - "cryptominer"
+      - "reverse_shell"
+  logs:
+    auth_log_path: "/var/log/auth.log"
+    syslog_path: "/var/log/syslog"
+    kern_log_path: "/var/log/kern.log"
+    failed_login_threshold: 5
+    ssh_bruteforce_window: 60
+    privilege_escalation_keywords:
+      - "sudo"
+      - "su"
+      - "polkit"
+      - "setuid"
+  alerts:
+    console_enabled: true
+    log_file: "/var/log/hexashield_alerts.log"
+    severity_colors:
+      INFO: "green"
+      WARNING: "yellow"
+      CRITICAL: "red"
